@@ -1,2 +1,2 @@
 # Java-Exercises
-This contains some of the programs that I test in order to look at exceptions in the Java code.
+These are mostly test programs. I might put some of the ones I make when I'm bored in here too.
